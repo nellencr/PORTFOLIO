@@ -3,7 +3,7 @@
 ![screenshot](images/screen.png)
 
 
-## LINK
+## Link
  [Portfolio link](https://raw.githack.com/nellencr/PORTFOLIO/feature/index.html)
 
 
